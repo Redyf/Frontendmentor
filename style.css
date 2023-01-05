@@ -1,0 +1,38 @@
+body {
+  font-family: 'Outfit';
+  background-color: #d2deec;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.block {
+  width: 380px;
+  height: 540px;
+  text-align: center;
+  background-color: white;
+  border-radius: 20px;
+  font-size: 9px;
+}
+
+h1 {
+  margin: 20px 20px;
+  font-weight: 900;
+  opacity: 100%;
+  font-size: 28px;
+  color: hsl(218, 44%, 22%);
+}
+
+p {
+  font-weight: 400px;
+  font-size: 15px;
+  margin: 10px 40px;
+  color: hsl(220, 15%, 55%)
+}
+
+img {
+  width: 340px;
+  border-radius: 20px;
+  margin-top: 20px;
+} 
